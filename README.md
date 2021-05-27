@@ -1,6 +1,6 @@
 Free & Unlimited shadowsocks from SurfShark. :)
 
-* Best Client For shadowsocks
+* [Best Client For shadowsocks](https://github.com/vpnland/SS#best-client-for-shadowsocks)
 * How Import SS To client
 
 ## Best Client For shadowsocks
